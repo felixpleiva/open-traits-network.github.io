@@ -6,9 +6,9 @@ email: felixpleiva@gmail.com
 homepage: https://github.com/felixpleiva
 lat: 51.82
 long: 5.87
-affiliation: Department of Animal Ecology and Physiology, Radboud University, the Netherlands 
+affiliation: Department of Environmental Science, Radboud University, the Netherlands 
 github: felixpleiva
-orcid: 
+orcid: https://orcid.org/0000-0003-0249-9274
 wikidata: 
 scholia: 
 ---
@@ -16,4 +16,4 @@ scholia:
 Félix is an animal eco-physiologist in Nijmegen, the Netherlands. 
 
 ## Collaboration statement
-I am an eco-physiologist interested in understanding how terrestrial and aquatic ectotherms respond to increasing temperature, low oxygen levels, and salinity changes, among other environmental perturbations. To do so, I am using experimental and comparative approaches that allow testing the generality of various hypotheses in physiology, ecology and evolution. Next year I will start my postdoctoral project, **MetaR**, funded by the [Alexander von Humboldt-Stiftung](https://www.humboldt-foundation.de/en/). In this project, I will assemble and curate a large, intra-and-interspecific database on metabolic rates of ectotherms (invertebrates, fish, amphibians and reptiles), globally distributed across realms (marine, freshwater, intertidal and terrestrial), climate zones (polar, temperature and tropical), and from the deepest ocean to the highest mountains, aiming to synthesise the impact of global environmental change on a key physiological trait in ectotherms: their metabolic rate. 
+I study macrophysiology, with a particular interest in understanding how terrestrial and aquatic ectotherms respond to increasing temperatures, low oxygen levels, and salinity changes, among other environmental perturbations. In recent years, I have dedicated a significant portion of my time to collecting data from literature to create comprehensive databases with extensive taxonomic coverage and metadata. These databases enable robust testing of various hypotheses in physiology, ecology, and evolution through a diverse range of comparative approaches. Recently, I created [MetaR](https://github.com/felixpleiva/MetaR), a large-scale project in which I developed and curate an extensive intra- and interspecific database on metabolic rates of ectotherms (invertebrates, fish, amphibians, and reptiles). This database encompasses organisms globally distributed across realms (marine, freshwater, intertidal, and terrestrial), climate zones (polar, temperate, and tropical), and from the deepest oceans to the highest mountains. Currently, I am working as a postdoctoral researcher in the Department of Environmental Science at Radboud University in the Netherlands.
